@@ -1,6 +1,9 @@
 # Hero Squad
 
-International hero registry
+HeroSquad is a web app app built using java-spark framework it allows one to recruit a well-balanced team of superheroes,
+where at the very least, they should have a name, age, special power and weakness.
+The heroes should also have a max size, name, and a cause
+a hero can only participate in one Squad at a time
 
 ## Languages Used
 - HTML
